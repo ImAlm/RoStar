@@ -24,3 +24,6 @@ guildEvents botun eklendiği veya çıkarıldığı sunucuların logunu atar.
 
 
 <img width="510" alt="Ekran Resmi 2023-03-02 13 40 44" src="https://user-images.githubusercontent.com/126017146/222405931-81d1024f-39cb-4f9e-84aa-5e9c052215e2.png">
+
+<img width="509" alt="Ekran Resmi 2023-03-02 13 42 46" src="https://user-images.githubusercontent.com/126017146/222406048-a6ba34db-35c0-42bc-b65e-f01d4f715ae7.png">
+
