@@ -1,0 +1,37 @@
+{
+    "API": {
+        "mongoKey": "-- mongo şifresi"
+    },
+
+    "colors": {
+        "gray": "#2f3136",
+        "red": "#f53434",
+        "green": "#53e447"
+    },
+
+    "botSettings": {
+        "token": "",
+        "aouthURL": "--bu kısım unutulmasın"
+    },
+
+    "channels": {
+
+        "top25message": {
+            "channelId": "top25 kanalının IDsi",
+            "messageId": "top25 kanalında bulunan mesajın IDsi"
+        },
+
+        "errorChannel": "hata kanalı",
+        "guildEvents": "botun sunucuya eklendiği çıkarıldığı logu"
+    },
+
+    "emojis": {
+
+        "onay": "",
+        "reddet": "",
+        "oy": "",
+        "saat": "",
+        "taç": "",
+        "zil": ""
+    }
+}

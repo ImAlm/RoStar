@@ -1,0 +1,19 @@
+{
+  "name": "rostar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.14.0",
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.7.1",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.8.3"
+  }
+}
