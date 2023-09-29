@@ -1,4 +1,4 @@
-Selamlar ben Myth. Discord bot geliştiriciliğne yaklaşık 2 yıl önce başladım.
+Selamlar ben Myth. Discord bot geliştiriciliğne yaklaşık 2.5 yıl önce başladım.
 Ve son küçük proje olarak bunu sunmak istedim. Belki bir yararım dokunur diye.
 
 Küçük bir oy verme botu. Geliştirip kendinize ait kullanabilirsiniz. 
